@@ -1,0 +1,12 @@
+{
+    "require": {
+        "phpunit/phpunit": "^5.7"
+    },
+	"autoload": {
+        "classmap": [
+            "controllers",
+			"core",
+			"models"
+        ]
+    }
+}
